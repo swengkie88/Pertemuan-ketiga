@@ -1,4 +1,5 @@
 # Pertemuan-ketiga
+Fokus pembahasan pertemuan ke-3 ini adalah mengenai API.
 Beberapa sumber bacaan yang bisa dibaca dan dipelajari dari pertemuan ketiga:
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
@@ -8,3 +9,5 @@ Beberapa sumber bacaan yang bisa dibaca dan dipelajari dari pertemuan ketiga:
 - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 - https://web.dev/introduction-to-fetch/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+Tools yang membantu proses belajar API:
+- https://www.postman.com/
