@@ -1,5 +1,11 @@
 # Pertemuan-ketiga
 Fokus pembahasan pertemuan ke-3 ini adalah mengenai API.
+---
+![REST API Architecture](https://shareurcodes.com/photos//rest-api.jpg)  
+
+Picture by: https://shareurcodes.com/  
+
+---
 Beberapa sumber bacaan yang bisa dibaca dan dipelajari dari pertemuan ketiga:
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
